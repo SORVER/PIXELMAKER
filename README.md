@@ -2,6 +2,9 @@
 
 A simple web app for creating pixel art.
 
+Here's a screenshot of the Pixel Art Maker in action:
+![Pixel Art Maker](images/screenshot.png)
+
 ## Installation
 
 To install and run the Pixel Art Maker, follow these steps:
